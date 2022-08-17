@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../.idea/FlatIron.iml" filepath="$PROJECT_DIR$/../../.idea/FlatIron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Phase1_Topic3_Data_BasePython.iml" filepath="$PROJECT_DIR$/.idea/Phase1_Topic3_Data_BasePython.iml" />
+      <module fileurl="file://$USER_HOME$/AppData/Local/Temp/Temp1_Student share-20220817T023635Z-001.zip/Student share/.idea/Student share.iml" filepath="$USER_HOME$/AppData/Local/Temp/Temp1_Student share-20220817T023635Z-001.zip/Student share/.idea/Student share.iml" />
+      <module fileurl="file://$USER_HOME$/AppData/Local/Temp/Temp1_final_project.zip/.idea/Temp1_final_project.zip.iml" filepath="$USER_HOME$/AppData/Local/Temp/Temp1_final_project.zip/.idea/Temp1_final_project.zip.iml" />
+    </modules>
+  </component>
+</project>
